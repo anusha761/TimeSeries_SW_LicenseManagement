@@ -1,5 +1,5 @@
 # License Usage Forecasting for Enterprise Software Management
-> This project focuses on forecasting enterprise software license usage for Microsoft 365 by analyzing historical monthly data. The goal is to help organizations optimize software license procurement and renewal strategies by identifying seasonal trends in license demand. Various time series analysis techniques have been applied, and different models have been fitted to generate accurate forecasts.
+> This project focuses on forecasting Microsoft 365 Enterprise software license usage for Microsoft 365 by analyzing historical monthly data. The goal is to help organizations optimize software license procurement and renewal strategies by identifying seasonal trends in license demand. Various time series analysis techniques have been applied, and different models have been fitted to generate accurate forecasts.
 
 ## Table of Contents
 * [General Info](#general-information)
