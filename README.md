@@ -13,7 +13,7 @@
 #### Project 1 - License Expenses Forecasting
 - Overview: Forecasts IT department expenses related to software licenses to ensure cost-effective budgeting.
 - Data Analysis: Applies time series techniques including decomposition (additive/multiplicative), stationarity tests, and ACF/PACF plotting to understand the data’s underlying patterns.The historical expense data exhibits an upward trend, reflecting the growing cost of software licenses over time. This steady increase suggests an expansion in enterprise software usage, possibly driven by organizational growth, new tool adoption, or changing licensing models. A seasonal pattern is also evident, with recurring peaks and dips at regular intervals. This cyclic behavior indicates that license expenses fluctuate in alignment with predefined business cycles, such as annual budget approvals, project renewals, or workforce expansions. The time series decomposition further confirms this, isolating the trend and seasonal variations from residual noise. Additionally, short-term fluctuations in the data highlight unexpected variations, possibly due to occasional bulk purchases, internal policy shifts, or vendor-driven pricing adjustments. These irregular movements emphasize the importance of forecasting, enabling businesses to anticipate and manage future expenses more effectively.
-- Forecasting Method: Utilizes LSTM () to generate license expenses forecasts.
+- Forecasting Method: Utilizes LSTM (Long Short Term Memory) type of Recurrent Neural Network to generate license expenses forecasts.
 - Objective: Aims to ensure cost-effective budgeting
   
 #### Project 2 - License Usage Forecasting
