@@ -1,4 +1,4 @@
-# Enterprise Software License Forecasting
+# Forecasting Enterprise Software License Usage and Expenses
 > This repository contains two projects focused on forecasting MS365 enterprise software license usage and expenses using time series modeling. One project forecasts IT department software expenses due to the licenses, while the other project forecasts license usage demand. Both projects aim to optimize software procurement, budget planning, and cost efficiency by identifying trends in historical data.
 
 ## Table of Contents
